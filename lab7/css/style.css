@@ -1,0 +1,17 @@
+body{
+	font-size: 12px;font-family: Arial;color:gray; 
+	line-height: 2em;
+	background: url(../images/bg.gif) no-repeat 50% 8.5%;
+	height: 500px;
+	}
+a{color: #727272;text-decoration:none;}
+a:hover{text-decoration: underline;}
+p.banner{
+		background: url(../images/banner.jpg) no-repeat 50% 0%;
+		height: 300px;
+		text-align:center;
+		font-size: 14px;color:#b9f605;font-weight: bold;
+}
+.bg2{color: white;text-align: center;font-weight: normal;}
+.bg2:hover{color: #b9f605;text-decoration: none;}
+#bg3{color: #fdb603;text-decoration: none;font-weight: normal;}
