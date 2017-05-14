@@ -1,0 +1,39 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family:'宋体'
+}
+
+.title{
+	background-image: url(../image/left_nav_title.gif);
+	width: 183px;
+	height: 47px;
+    color:white;
+	text-align: center;
+    padding-top: 12px;
+    font-weight:bold
+}
+
+a.red:link {color:red}		
+a.red:visited {color:green}		
+ul{
+	list-style-type:none;
+	list-style-image: url(../image/left_cur.gif); 
+	background-image: url(../image/left_nav_txt.gif);
+	width:183px;
+	text-align: center;
+	
+}
+li{
+	background-image: url(../image/left_nav_item.gif);
+	margin-left: 40px; 
+	padding-top: 5px; 
+	background-position: -3em 90%; 
+	background-repeat: no-repeat;
+}
+
+.bottom{
+	background-image: url(../image/left_nav_bottom.gif);
+    width: 183px;
+	height: 35px;
+}

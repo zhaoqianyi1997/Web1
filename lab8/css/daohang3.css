@@ -1,0 +1,38 @@
+*{
+	padding:0px;
+	margin:0px;
+	text-align:left;
+}
+li{
+	list-style:none;
+}
+.menu{
+	width:1005px;
+	background:url(../image/bg.gif);
+	height:75px;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	color:green;
+}
+ul{
+	width:1005px;
+	height:75px;
+	line-height:75px;
+	vertical-align:middle;	
+}
+ li{
+	float:left;
+	padding:15px;	
+}
+.menu a{
+	color:white;	
+	text-decoration:none;
+}
+
+a.orange:link {
+	color: orange;
+}	
+a.orange:visited {
+	color:purple;
+}	
