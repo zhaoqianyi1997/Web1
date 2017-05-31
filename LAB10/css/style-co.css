@@ -1,0 +1,57 @@
+*{
+	font-family: "宋体";color:#522a06;list-style: none;
+}
+a:link {color:#522a06;text-decoration-line:none;}
+a:hover{color:rgb(134,1,17);text-decoration-line:underline;}
+body{background-image:url(../images/bodybg.gif);font-size: 12px;}
+#header{
+	height:205px;background-image:url(../images/bg.gif);background-position: center top;background-repeat: no-repeat;
+}
+#banner{width:1000px;height:164px;}
+#img{position: absolute;left:150px;top: 38px;}
+#nav{height:40px;background-image:url(../images/nav.jpg);}
+.nav_content{
+	float:left;width:700px;height:40px;;padding-top: 12px;font-family: "宋体" ；font-size:12px;font-weight: bolder;margin-left: 80px;color: white;
+}
+.nav_body a:link{text-decoration-line:none;}
+.nav_body a:hover{color:#f9f603;}
+.nav_body a{color:white;height:40px;}
+#kuang{
+    width:140px;height:19px;background-color: #f8f5ee;float:left;margin-top: 6px;margin-right: 7px;
+}
+#button{
+	width:44px;height:21px;background-color: #000;color:#fff;border:1px  solid  #f8f5ee;margin-top: 8px;
+}
+
+
+#footer{height: 125px;background-image: url(../images/foot.gif);clear:both;font-size: 12px;}
+.lianjie ul li{display: inline;color:  #522a06;}
+.lianjie ul li a{color: #522a06;font-weight: bolder;}
+.lianjie{height: 30px;margin-left: 190px;margin-top: 40px;}
+hr{color:#522a06;font-weight: bolder;width:700px;margin-right: 190px}
+.wenzi1{width: 700px;color: #522a06;position: center;margin-left: 200px;font-variant-position: center;}
+
+#zhengwen{width:1000px;font-size: 13px;}
+#left{width:700px;float:left;}
+#right{width:280px;float:left;margin-left:16px;}
+#title{font-size:16px;height:45px;border-bottom:1px solid #c9baa5;text-align:center;}
+#tx{font-size:12px;color:#757575;margin:10px;float:none;text-align:center;}
+#medium{
+	line-height:28px;padding:10px;border-bottom:1px solid #c9baa5;width: 700px;
+    text-indent:2em;font-size: 13px;
+}
+#tu{margin-left:50px;margin-top: 10px;}
+#bottom{heught:40px;line-height:40px;margin:10px;font-size: 13px;text-align:center;}
+#bottom a:link{margin-right:10px;color:#844004;font-size:13px;}
+#shang{
+	   border:1px solid #c9baa5;background-image:url(../images/bg.png);margin-bottom:30px;
+	   margin-top:20px;width:230px;margin-left: 10px;
+}
+#tu2{margin-bottom: 10px;display:block;margin:0 auto;}
+#shang li{line-height:30px;}
+#xia{width:280px;margin-top:20px;margin-bottom:20px;}
+#banner1{margin-top:25px;margin-bottom:15px;display:block;margin:0 auto;}
+#kuang2{background-image: url(../images/show_bg.png);height:362px;line-height: 20px;}
+#old{margin-left: 25px;margin-top: 25px;}
+#three{margin-left: 40px;margin-bottom: 100px;}
+#red{font-weight: bold;color:#b70000;}
