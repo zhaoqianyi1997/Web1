@@ -1,0 +1,138 @@
+#banner{margin: 0 70px;}
+	#list1
+	{
+		text-align: center;
+		list-style-type:none;
+		margin:0;
+		padding:0;
+		padding-top:6px;
+		padding-bottom:6px;}
+		li
+	{
+		display:inline;
+	}
+	li a:link,li a:visited
+	{	
+
+		color:#FFFFFF;
+		background-color:black;
+		text-align:center;
+		padding:6px;
+		text-decoration:none;
+	}
+		a:hover,a:active
+	{
+		
+		background-color:#FFFFFF;}
+
+	#denglu{
+			background-image:url(http://taylorpictures.net/themes/aqua/7.png);
+			height: 148px;
+			position: absolute;
+			top: 257px;
+			position: absolute;
+			left: 78px;
+			top:303px;
+			text-align: center;
+
+}
+	#text{width: 1200px;}
+
+	#search{position: absolute;
+			top: 15px;
+			left: 990px;}
+		.bread{
+	height:10px;
+	line-height:40px;
+	position: absolute;
+	top: 455px;
+	left: 80px;
+}
+.bread a:link{
+	color:#FFFFFF;
+}
+.bread a:hover{
+	text-decoration: underline;
+}
+
+}
+	#left{float:left;margin-right:20px;margin-bottom:40px;margin-left: 40px;font-weight: bold;}
+	#top{
+	position: absolute;top: 55px;
+	left: 2px;
+	border-width: 2px;border-color: black;border-style:solid;width: 218px;height:315px;
+	background-color: rgb(196,182,133);
+}
+#medium{
+	border-width: 2px;border-color: black;border-style:solid;width: 218px;height:328px;
+	background-color: rgb(196,182,133);position: absolute;top: 390px;
+	left: 2px;
+}
+#news{float: left;
+position: absolute;
+top: 495px;
+left: 350px;
+font-family: 华文行楷;
+font-size: 30px;
+
+}
+#time{float: right;
+position: absolute;
+top: 495px;
+left: 1175px;
+font-family: 华文行楷;
+font-size: 30px;
+
+}
+ p a{color: rgb(139,126,102);}
+#news a:hover{color:black);}
+#news li{list-style: disc;}
+#top a:hover{
+	color:rgb(139,129,76);
+	display:block; background-repeat: no-repeat;width:150px;height:30px;
+	font-weight: bold;
+	background-position:-20px -5px;
+	text-decoration: none;
+}
+
+#medium a:hover{
+	color:rgb(139,129,76);
+	display:block; background-repeat: no-repeat;width:150px;height:30px;
+	font-weight: bold;
+	background-position:-20px -5px;
+	text-decoration: none;
+}
+
+
+#page
+	{
+		text-align: center;
+		list-style-type:none;
+		margin: 30px 150px;
+		font-size: 18px;}
+		li
+	{
+		display:inline;
+	}
+	li a:link,li a:visited
+	{	
+
+		color:white;
+		background-color:black;
+		text-align:center;
+		padding:6px;
+		text-decoration:none;
+	}
+		a:hover,a:active
+	{
+		background-color:rgb(210,180,140);}
+#p{ position: absolute;
+	top: 0px;
+	left: 336px;
+	height: 300px;
+	width: 400px; }
+	#footer{position: absolute;
+		top: 1200px;
+		left: 350px;}
+
+
